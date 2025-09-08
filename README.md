@@ -14,7 +14,7 @@ DESCRIPTION:
 
 Project Description:
 
-Objective:-
+🎯 Objective
 
 The goal of this project is to demonstrate text generation using two approaches inside a Jupyter Notebook:
 
@@ -24,7 +24,7 @@ Custom LSTM (Recurrent Neural Network) trained on a toy dataset to illustrate se
 
 This notebook helps learners understand how large pretrained models compare with small, educational models.
 
-⚙ How It Works
+⚙️ How It Works
 1. Environment Setup
 
 Installs required libraries:
@@ -81,7 +81,7 @@ GPT-2 → fluent, high-quality output (but requires internet to download weights
 
 LSTM → simpler, repetitive, but useful for learning how text generation works internally.
 
-Tools & Technologies Used
+🖼️ Tools & Technologies Used
 Libraries
 
 Transformers (Hugging Face) – GPT-2 pretrained model.
@@ -96,8 +96,7 @@ Platform
 
 Jupyter Notebook – Interactive step-by-step execution.
 
-
- Workflow
+🔄 Workflow
 
 Run Environment Setup – installs dependencies.
 
@@ -113,7 +112,7 @@ sample_from_model("artificial intelligence is", gen_len=30)
 
 Compare Outputs – observe differences between GPT-2 and LSTM.
 
- Model Details
+📦 Model Details
 GPT-2
 
 Pretrained on large internet text (117M parameters).
@@ -139,3 +138,13 @@ Configurable generation settings.
 Educational: shows preprocessing, training, and generation.
 
 Runs entirely in a notebook, no external web app required.
+
+OUPUT:
+
+<img width="1160" height="411" alt="image" src="https://github.com/user-attachments/assets/8072638d-c71a-4a70-81c7-3b05cca4c169" />
+
+
+
+<img width="1753" height="188" alt="image" src="https://github.com/user-attachments/assets/595be129-3139-4ff7-9157-c92b6c3b4d29" />
+
+
